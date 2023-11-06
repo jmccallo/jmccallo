@@ -1,5 +1,3 @@
-![Profile Image](link_to_your_profile_image)
-
 ### Introduction
 👋 Hi, I'm @Jeremy, a passionate software developer-in-the-making with a mission to code the world 🌍!
 
