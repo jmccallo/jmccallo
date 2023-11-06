@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @Jeremy
-- 👀 I’m interested in ...coding the world 🌍 !!!
-- 🌱 I’m currently learning ...Python and Web Development.
-- 💞️ I’m looking to collaborate on ...anything that can help develop these skills.
-- 📫 How to reach me ...email me at jmccallo@devstudio.dev
+![Profile Image](link_to_your_profile_image)
+
+### Introduction
+👋 Hi, I'm @Jeremy, a passionate software developer-in-the-making with a mission to code the world 🌍!
+
+### Tech Stack
+- 🌱 Currently learning Python and Web Development.
+- Proficient in HTML, CSS, JavaScript.
+- Familiar with Python, Flask, Django.
+
+### Skills
+- **Languages**: Python, JavaScript
+- **Front-end**: HTML, CSS, JavaScript, React
+- **Back-end**: Flask, Django
+- **Databases**: SQL, MongoDB
+
+### Achievements
+- Completed online courses in web development and Python programming.
+
+### Contact Information
+📫 Email: [jmccallo@devstudio.dev](mailto:jmccallo@devstudio.dev)
+[LinkedIn](www.linkedin.com/in/jeremy-mccallop)
+
+### Contributions
+I'm open to collaborating on projects that can help me develop my skills. Feel free to reach out if you have opportunities or projects in mind!
+
+### Motto
+> "Code, test, learn, repeat."
 
 <!---
 jmccallo/jmccallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
