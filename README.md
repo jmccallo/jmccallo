@@ -17,7 +17,7 @@
 
 ### Contact Information
 📫 Email: [jmccallo@devstudio.dev](mailto:jmccallo@devstudio.dev)
-[LinkedIn](www.linkedin.com/in/jeremy-mccallop)
+[LinkedIn](https://www.linkedin.com/in/jeremy-mccallop) 
 
 ### Contributions
 I'm open to collaborating on projects that can help me develop my skills. Feel free to reach out if you have opportunities or projects in mind!
